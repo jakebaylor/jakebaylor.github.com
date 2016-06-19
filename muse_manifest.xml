@@ -1,0 +1,105 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.jakebaylor.com" resolutions="1x" timestamp="1466318252693">
+  <folder name="css">
+    <file name="site_global.css" crc="227350673"/>
+    <file name="index.css" crc="302292756" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="robot.jpg" crc="4086071365" seo="true" mt="1418148616000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
+    <file name="museutils.js" crc="4190794036" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="webpro.js" crc="488283310" ref="index"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u2053-5.png" crc="480207726" ref="index"/>
+    <file name="squirrel pilot (redux)-01.jpg" crc="19566903" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="apathy (redux).jpg" crc="420111095" seo="true" ref="index"/>
+    <file name="parka (redux).jpg" crc="3829349224" seo="true" ref="index"/>
+    <file name="defstar (redux).jpg" crc="85515992" seo="true" ref="index"/>
+    <file name="squirrel pilot (redux)-01-crop-u2348.jpg" crc="285702041" ref="index"/>
+    <file name="apathy (redux)-crop-u2221.jpg" crc="4007449575" ref="index"/>
+    <file name="parka (redux)-crop-u2328.jpg" crc="371710058" ref="index"/>
+    <file name="defstar (redux)70x45.jpg" crc="88916846" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="dsc_0029.jpg" crc="4016311227" seo="true" ref="index"/>
+    <file name="dsc_0024a.jpg" crc="380678282" seo="true" ref="index"/>
+    <file name="dsc_0037.jpg" crc="4293519315" seo="true" ref="index"/>
+    <file name="dsc_0027.jpg" crc="372585775" seo="true" ref="index"/>
+    <file name="dsc_0032.jpg" crc="323403249" seo="true" ref="index"/>
+    <file name="dsc_0034.jpg" crc="114771402" seo="true" ref="index"/>
+    <file name="dsc_0040.jpg" crc="3950247441" seo="true" ref="index"/>
+    <file name="dsc_0042.jpg" crc="18241384" seo="true" ref="index"/>
+    <file name="dsc_0043.jpg" crc="167587747" seo="true" ref="index"/>
+    <file name="dsc_0044.jpg" crc="206382414" seo="true" ref="index"/>
+    <file name="dsc_002960x49.jpg" crc="468426770" seo="true" ref="index"/>
+    <file name="dsc_0024a64x45.jpg" crc="366677122" seo="true" ref="index"/>
+    <file name="dsc_0037-crop-u1029.jpg" crc="533684303" ref="index"/>
+    <file name="dsc_0027-crop-u993.jpg" crc="110809052" ref="index"/>
+    <file name="dsc_0032-crop-u1011.jpg" crc="52134719" ref="index"/>
+    <file name="dsc_0034-crop-u1020.jpg" crc="401872903" ref="index"/>
+    <file name="dsc_0040-crop-u1038.jpg" crc="4268297612" ref="index"/>
+    <file name="dsc_0042-crop-u1047.jpg" crc="367562390" ref="index"/>
+    <file name="dsc_004368x45.jpg" crc="408610912" seo="true" ref="index"/>
+    <file name="dsc_004460x49.jpg" crc="4230560006" seo="true" ref="index"/>
+    <file name="dsc_0073.jpg" crc="4151667701" seo="true" ref="index"/>
+    <file name="dsc_0074.jpg" crc="156415049" seo="true" ref="index"/>
+    <file name="dsc_0075.jpg" crc="3958506075" seo="true" ref="index"/>
+    <file name="dsc_0076.jpg" crc="10776337" seo="true" ref="index"/>
+    <file name="dsc_0077.jpg" crc="3827982044" seo="true" ref="index"/>
+    <file name="dsc_0078.jpg" crc="3838525354" seo="true" ref="index"/>
+    <file name="dsc_0079.jpg" crc="125698672" seo="true" ref="index"/>
+    <file name="dsc_0080.jpg" crc="4120066450" seo="true" ref="index"/>
+    <file name="dsc_0081.jpg" crc="4046925836" seo="true" ref="index"/>
+    <file name="dsc_0082.jpg" crc="3978722064" seo="true" ref="index"/>
+    <file name="dsc_0083.jpg" crc="260743625" seo="true" ref="index"/>
+    <file name="dsc_0084.jpg" crc="128587240" seo="true" ref="index"/>
+    <file name="dsc_0085.jpg" crc="386058983" seo="true" ref="index"/>
+    <file name="dsc_0086.jpg" crc="3959888839" seo="true" ref="index"/>
+    <file name="dsc_007368x45.jpg" crc="3763671521" seo="true" ref="index"/>
+    <file name="dsc_007468x45.jpg" crc="485598461" seo="true" ref="index"/>
+    <file name="dsc_007568x45.jpg" crc="3925990178" seo="true" ref="index"/>
+    <file name="dsc_007668x45.jpg" crc="295793893" seo="true" ref="index"/>
+    <file name="dsc_007768x45.jpg" crc="7066336" seo="true" ref="index"/>
+    <file name="dsc_007868x45.jpg" crc="460086148" seo="true" ref="index"/>
+    <file name="dsc_007968x45.jpg" crc="3815266005" seo="true" ref="index"/>
+    <file name="dsc_008068x45.jpg" crc="4209525659" seo="true" ref="index"/>
+    <file name="dsc_008168x45.jpg" crc="3906228276" seo="true" ref="index"/>
+    <file name="dsc_008268x45.jpg" crc="4002891228" seo="true" ref="index"/>
+    <file name="dsc_008368x45.jpg" crc="4130173333" seo="true" ref="index"/>
+    <file name="dsc_008468x45.jpg" crc="96221014" seo="true" ref="index"/>
+    <file name="dsc_008568x45.jpg" crc="300794372" seo="true" ref="index"/>
+    <file name="dsc_008668x45.jpg" crc="182065226" seo="true" ref="index"/>
+    <file name="pineappletop.jpg" crc="284183718" seo="true" ref="index"/>
+    <file name="pineappleside.jpg" crc="4230299305" seo="true" ref="index"/>
+    <file name="pineapplebottom.jpg" crc="3862331876" seo="true" ref="index"/>
+    <file name="pineappletop-crop-u654.jpg" crc="464790326" ref="index"/>
+    <file name="pineappleside-crop-u599.jpg" crc="120587787" ref="index"/>
+    <file name="pineapplebottom-crop-u645.jpg" crc="4088188195" ref="index"/>
+    <file name="jakebaylor2.jpg" crc="501851902" seo="true" ref="index"/>
+    <file name="jakebaylor1.jpg" crc="4242801779" seo="true" ref="index"/>
+    <file name="jakebaylor01.jpg" crc="4154168803" seo="true" ref="index"/>
+    <file name="friends_053.jpg" crc="3823253174" seo="true" ref="index"/>
+    <file name="misc_078.jpg" crc="3841741878" seo="true" ref="index"/>
+    <file name="shane painting133.jpg" crc="137968250" seo="true" ref="index"/>
+    <file name="dsc_0464.jpg" crc="3797013635" seo="true" ref="index"/>
+    <file name="absinthe08.jpg" crc="29330865" seo="true" ref="index"/>
+    <file name="shane pasadena.jpg" crc="4210186067" seo="true" ref="index"/>
+    <file name="jakebaylor268x45.jpg" crc="4044995965" seo="true" ref="index"/>
+    <file name="jakebaylor168x45.jpg" crc="3814665870" seo="true" ref="index"/>
+    <file name="jakebaylor0168x45.jpg" crc="4119974" seo="true" ref="index"/>
+    <file name="friends_05368x45.jpg" crc="323712500" seo="true" ref="index"/>
+    <file name="misc_07868x45.jpg" crc="3910208008" seo="true" ref="index"/>
+    <file name="shane painting13368x45.jpg" crc="170860023" seo="true" ref="index"/>
+    <file name="dsc_046468x45.jpg" crc="321936364" seo="true" ref="index"/>
+    <file name="absinthe0868x45.jpg" crc="3763474361" seo="true" ref="index"/>
+    <file name="shane pasadena68x45.jpg" crc="4042581616" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3859027770" seo="true" mt="1458438426141" redirect="true"/>
+</manifest>
